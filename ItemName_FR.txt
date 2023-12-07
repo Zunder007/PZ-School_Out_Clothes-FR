@@ -114,6 +114,7 @@ ItemName_FR = {
 		ItemName_seifuku.FemaleUniform_SkirtBlue = "Jupe d'uniforme scolaire bleu",
 		ItemName_seifuku.FemaleUniform_SkirtBlueLong = "Jupe d'uniforme scolaire longue bleu",
 		ItemName_seifuku.FemaleUniform_SkirtBlueShort = "Jupe d'uniforme scolaire courte bleu",
+		ItemName_seifuku.FemaleUniform_SkirtWhiteShort = "Jupe de tennis",
 		ItemName_seifuku.GymUniform_Bloomers = "Culotte bouffante scolaire pour gymnastique",
 		ItemName_seifuku.GymUniform_Shorts = "Short d'uniforme scolaire pour gymnastique",
 		ItemName_seifuku.MaleUniform_Trousers = "Pantalon d'uniforme scolaire",
