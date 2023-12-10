@@ -161,6 +161,7 @@ ItemName_FR = {
 		ItemName_seifuku.Stockings_CuteBlackSemiTrans = "Joli Bas noir semi transparent",
 		ItemName_seifuku.Stockings_CuteBlackTrans = "Joli Bas noir transparent",
 		ItemName_seifuku.Stockings_CuteWhite = "Joli Bas blanc",
+		ItemName_seifuku.Socks_CrewWhite = "Chaussettes de l'équipe",
 
 	-- seifuku_items
 		ItemName_seifuku.TriangleTieBlack = "Cravate triangulaire noire",
