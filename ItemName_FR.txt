@@ -131,15 +131,19 @@ ItemName_FR = {
 		ItemName_seifuku.SchoolUniform_SkirtMini = "Mini Jupe d'écolière",
 
 	-- clothing/seifuku_clothing_shirts
-		ItemName_seifuku.FemaleUniform_Sailor = "Costume marin à manches longues",
-		ItemName_seifuku.FemaleUniform_SailorBlackBlack = "Costume marin noir à manches longues",
-		ItemName_seifuku.FemaleUniform_SailorBlue = "Costume marin bleu à manches longues",
-		ItemName_seifuku.FemaleUniform_SailorShortBlackBlack = "Costume marin noir à manches courtes",S
-		ItemName_seifuku.FemaleUniform_SailorShortBlue = "Costume marin bleu à manches courtes",
+		ItemName_seifuku.FemaleUniform_Rashguard = "Chemise de sport légère Rashguard",
+		ItemName_seifuku.FemaleUniform_RashguardUnbtn = "Chemise de sport légère Rashguard (Déboutonnée)",
 		ItemName_seifuku.FemaleUniform_Shirt = "Maillot d'école à manches longues",
 		ItemName_seifuku.FemaleUniform_ShirtShort = "Maillot d'école à manches courtes",
-		ItemName_seifuku.GymUniform_Shirt = "Maillot d'école pour gymnastique",
+		ItemName_seifuku.FemaleUniform_Sailor = "Costume marin à manches longues",
 		ItemName_seifuku.SchoolUniform_Summer = "Chemise d'été d'uniforme scolaire",
+		ItemName_seifuku.FemaleUniform_SailorBlue = "Costume marin bleu à manches longues",
+		ItemName_seifuku.FemaleUniform_SailorShortBlue = "Costume marin bleu à manches courtes",
+		ItemName_seifuku.FemaleUniform_SailorBlackBlack = "Costume marin noir à manches longues",
+		ItemName_seifuku.FemaleUniform_SailorShortBlackBlack = "Costume marin noir à manches courtes",S
+		ItemName_seifuku.GymUniform_Shirt = "Maillot d'école pour gymnastique",
+		ItemName_seifuku.GymUniform_PoloShirt = "Polo",
+		ItemName_seifuku.GymUniform_PoloShirtShort = "Polo sans manches",
 
 	-- clothing/seifuku_clothing_shoes
 		ItemName_seifuku.Shoes_Loafers = "Mocassins",
