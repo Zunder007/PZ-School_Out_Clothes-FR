@@ -173,4 +173,5 @@ ItemName_FR = {
 		ItemName_seifuku.TriangleTiePink = "Cravate triangulaire rose",
 		ItemName_seifuku.TriangleTieRed = "Cravate triangulaire rouge",
 		ItemName_seifuku.TriangleTieYellow = "Cravate triangulaire jaune",
+		ItemName_seifuku.TriangleTieWhite = "Cravate triangulaire blanche",
 }
