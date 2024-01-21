@@ -7,4 +7,7 @@ ContextMenu_FR = {
 
 	ContextMenu_UpRibbon = "Avec Veste",
 	ContextMenu_DownRibbon = "Avec Costume de Marin",
+
+	ContextMenu_Zip = "Fermeture éclair fermée",
+	ContextMenu_Unzip = "Fermeture éclair ouverte",
 }
