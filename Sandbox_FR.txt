@@ -103,4 +103,14 @@ Sandbox_FR = {
 
 	Sandbox_SchoolsOut_SpawnChanceModifier = "Modificateur de chance d'apparition",
 	Sandbox_SchoolsOut_SpawnChanceModifier_tooltip = "Les chances d'apparition des objets du mod 'School's Out' sont multipliées par ce nombre, modifiant ainsi leurs chances d'apparaître dans le monde.\nChangez cela si vous avez l'impression que des composants d'uniformes apparaissent trop fréquemment ou pas assez.",
+
+	Sandbox_SchoolsOut_DefaultRatio = "Taux d'absentéisme",
+	Sandbox_SchoolsOut_DefaultRatio_tooltip = "Multiplie les chances que des étudiants zombies apparaissent dans la population zombie générale (par défaut). Augmenter ce chiffre pour voir plus de zombies étudiants en dehors de l’école.\nCeci est un MULTIPLICATEUR, pas un pourcentage: certains zombies normaux apparaîtront toujours, même avec des valeurs élevées. Les zombies spécifiques à un emplacement (par exemple, les zombies prisonniers) ne sont pas affectés.",
+	Sandbox_SchoolsOut_BlazerColor_option5 = "Beige",
+	Sandbox_SchoolsOut_RibbonColor_option7 = "Jaune",
+	Sandbox_SchoolsOut_GymsuitStyle = "Style d'uniforme de gymnastique",
+	Sandbox_SchoolsOut_GymsuitStyle_tooltip = "Le style de l’uniforme de gym porté par les étudiants zombies. Les garçons porteront des shorts au lieu de jupe/culotte bouffante.",
+	Sandbox_SchoolsOut_GymsuitStyle_option1 = "Les deux",
+	Sandbox_SchoolsOut_GymsuitStyle_option2 = "Chemise et culotte bouffante",
+	Sandbox_SchoolsOut_GymsuitStyle_option3 = "Polo et Jupe",
 }
