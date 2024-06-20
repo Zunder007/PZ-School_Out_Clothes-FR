@@ -113,4 +113,8 @@ Sandbox_FR = {
 	Sandbox_SchoolsOut_GymsuitStyle_option1 = "Les deux",
 	Sandbox_SchoolsOut_GymsuitStyle_option2 = "Chemise et culotte bouffante",
 	Sandbox_SchoolsOut_GymsuitStyle_option3 = "Polo et Jupe",
+
+	Sandbox_SchoolsOut_GymsuitStyle_option4 = "Survêtement",
+	Sandbox_SchoolsOut_SpawnChanceToggle = "Chance d'apparition des vêtements",
+	Sandbox_SchoolsOut_SpawnChanceToggle_tooltip = "Les objets School's Out apparaîtront dans des conteneurs comme des casiers, des commodes, etc.",
 }
