@@ -174,4 +174,11 @@ ItemName_FR = {
 		ItemName_seifuku.TriangleTieRed = "Cravate triangulaire rouge",
 		ItemName_seifuku.TriangleTieYellow = "Cravate triangulaire jaune",
 		ItemName_seifuku.TriangleTieWhite = "Cravate triangulaire blanche",
+
+	ItemName_seifuku.GymUniform_TracksuitPantsBlue = "Pantalon de survêtement scolaire",
+	ItemName_seifuku.GymUniform_TracksuitPantsRed = "Pantalon de survêtement scolaire",
+	ItemName_seifuku.GymUniform_TracksuitTopBlue = "Haut de survêtement scolaire",
+	ItemName_seifuku.GymUniform_TracksuitTopBlueUnbtn = "Haut de survêtement scolaire",
+	ItemName_seifuku.GymUniform_TracksuitTopRed = "Haut de survêtement scolaire",
+	ItemName_seifuku.GymUniform_TracksuitTopRedUnbtn = "Haut de survêtement scolaire",
 }
